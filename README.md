@@ -53,7 +53,8 @@ Pauses one player when the other starts.
 
 1. Clone or Download this repository.
 
-git clone https://github.com/Nabi004646/media-showcase.git
+git clone
+https://github.com/Nabi004646/hw_2081_07-23.git
 
 
 2. Open the index.html file in your browser.
